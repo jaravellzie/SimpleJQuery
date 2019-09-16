@@ -1,0 +1,13 @@
+#btnAnimate{
+	font-weight:bold;
+	color:#FC2E2E;
+}
+#box1{
+	background-color:#45c66e;
+	width:200px;
+	height:200px;
+	position:absolute;
+}
+#p1{
+	position:absolute;
+}
